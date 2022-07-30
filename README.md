@@ -10,8 +10,7 @@
 
 - Bu veri seti orijinal olarak Carnegie Mellon Üniversitesi'nde bulunan StatLib kütüphanesinden alınmıştır. Veri seti 1988 ASA Grafik Bölümü Poster Oturumu'nda kullanılan verilerin bir parçasıdır.
 - Maaş verileri orijinal olarak Sports Illustrated, 20 Nisan 1987'den alınmıştır.
-- 1986 ve kariyer istatistikleri, Collier Books, Macmillan Publishing Company, New York tarafından yayınlanan
-- 1987 Beyzbol Ansiklopedisi Güncellemesinden elde edilmiştir.
+- 1986 ve kariyer istatistikleri, Collier Books, Macmillan Publishing Company, New York tarafından yayınlanan 1987 Beyzbol Ansiklopedisi Güncellemesinden elde edilmiştir.
 
 
 - AtBat: 1986-1987 sezonunda bir beyzbol sopası ile topa yapılan vuruş sayısı
